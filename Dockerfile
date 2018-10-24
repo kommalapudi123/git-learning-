@@ -1,3 +1,4 @@
 From alpine:3.6
-alpine
-add
+RUN apk update
+RUN add nginx
+
