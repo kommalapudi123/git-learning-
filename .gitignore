@@ -3,6 +3,6 @@
 *.png
 *.php
 *.class
-
+*.bak
 !index.php
 [abc].php
