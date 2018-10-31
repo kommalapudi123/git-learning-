@@ -4,3 +4,4 @@ if [ $? -ne 0 ]
 fi 
 int a = 10;
 #done with the script
+fi
